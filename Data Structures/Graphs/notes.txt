@@ -1,0 +1,19 @@
+=====[QUEUES]===========================================
+
+- A QUEUE IS AN ORDERED LIST OF DATA ITEMS 
+WHICH USES A FIFO (FIRST IN FIRST OUT) APPROACH 
+FOR ACCESSING ELEMENTS 
+
+- INSERT OPERATIONS ARE PERFORMED AT THE REAR 
+END WHILE DELETE OPERATIONS ARE PERFORMED AT 
+THE FRONT END
+
+
+===[]========================================================
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+=====[ARRAYS]===========================================
+
+- AN ARRAY IS A COLLECTION OF ELEMENTS WHICH 
+ARE OF THE SAME DATA TYPE
+
+- AN ARRAY ELEMENT CAN BE ACCESSED BY USING 
+IT'S INDEX NUMBER
+
+- DEFAULT ARRAY VARIABLE => arr[]
+
+
+===[]========================================================
+
+
+
+
+
+
+
