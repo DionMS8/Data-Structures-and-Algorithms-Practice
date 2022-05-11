@@ -1,9 +1,9 @@
 =====[ALGORITHMS]===========================================================
 
+- ALGORITHMS PROCESS THE DATA THAT IS STORED 
+IN DATA STRUCTURES.
+
 - ALGORITHMS ARE COMMONLY WRITTEN IN FUNCTIONS
-
-
-
 
 
 
